@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Killer-Amaan-Ali
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me killeramaan12345@gmail.com
 
